@@ -1,0 +1,29 @@
+G21 (metric ftw)
+M300 S50 (pen up)
+G4 P150 (wait 150ms)
+
+(Polyline consisting of 2 segments.)
+G1 X6.08 Y11.59 F3500.00
+M300 S30.00 (pen down)
+G4 P150 (wait 150ms)
+G1 X6.09 Y10.52 F3500.00
+G1 X4.99 Y10.09 F3500.00
+G1 X5.00 Y8.16 F3500.00
+G1 X6.10 Y7.76 F3500.00
+G1 X6.11 Y6.72 F3500.00
+G1 X1.25 Y8.59 F3500.00
+G1 X1.25 Y9.62 F3500.00
+G1 X6.08 Y11.59 F3500.00
+M300 S50.00 (pen up)
+G4 P150 (wait 150ms)
+
+(Polyline consisting of 2 segments.)
+G1 X4.18 Y9.78 F3500.00
+M300 S30.00 (pen down)
+G4 P150 (wait 150ms)
+G1 X2.38 Y9.10 F3500.00
+G1 X4.18 Y8.45 F3500.00
+G1 X4.18 Y9.78 F3500.00
+M300 S50.00 (pen up)
+G4 P150 (wait 150ms)
+
